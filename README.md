@@ -6,7 +6,6 @@
 
 ## 운영서버
 <br>
-https://saratangmaratang.vercel.app/
+try it: https://saratangmaratang.vercel.app/
 <br>
-Swagger
-http://223.130.162.183:8080/swagger-ui/index.html#/
+Swagger: http://223.130.162.183:8080/swagger-ui/index.html#/

@@ -1,6 +1,6 @@
 # 패션플랫폼 - 사라탕 마라탕
 ![image](https://github.com/user-attachments/assets/ad00c946-e9cc-4dc5-b9ee-70a932769378)
-
+origin repo: https://github.com/jinyu922/saratang
 ## summary
 ![image](https://github.com/user-attachments/assets/5d1300f2-6440-496c-a518-f9ac713b3f35)
 

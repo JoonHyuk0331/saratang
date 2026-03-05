@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/ad00c946-e9cc-4dc5-b9ee-70a932769378)
 
 ## summary
-![image](https://github.com/user-attachments/assets/42edd973-2c01-4ec2-a0f0-1b5affa0c8c2)
+![image](https://github.com/user-attachments/assets/5d1300f2-6440-496c-a518-f9ac713b3f35)
 
 ## Tech stack
 **BackEnd**: Java8 springBoot3 myBatis mysql oauth beautifulSoup

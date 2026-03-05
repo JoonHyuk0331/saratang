@@ -1,25 +1,26 @@
-# saratang
-온라인 패션 공유 플랫폼<br>
-현재 주요기능 개발 완료<br>
-패션정보/할인정보 등록 중 쇼핑몰url 입력시 자동으로 제품정보 작성됩니다 (현재 지원 사이트:musinsa,ssf몰,eland몰)<br>
-고도화 작업후 readme 추가 작성예성<br>
-
-## 운영서버
-<br>
-try it: https://saratangmaratang.vercel.app/
-<br>
-Swagger: http://223.130.162.183:8080/swagger-ui/index.html#/
-
+# 패션플랫폼 - 사라탕 마라탕
 ![image](https://github.com/user-attachments/assets/ad00c946-e9cc-4dc5-b9ee-70a932769378)
 
-![image](https://github.com/user-attachments/assets/ef4b4961-e52e-4d18-bfe1-134e746cd259)
-
+## summary
 ![image](https://github.com/user-attachments/assets/42edd973-2c01-4ec2-a0f0-1b5affa0c8c2)
 
-![image](https://github.com/user-attachments/assets/a9812118-b990-4f33-8d7a-c8a3b52c7db5)
+## Tech stack
+**BackEnd**: Java8 springBoot3 myBatis mysql oauth beautifulSoup
+**Infra**: NCPserver NCPobjectStorage
 
-![image](https://github.com/user-attachments/assets/7d989689-3869-4a08-868b-054c5077586c)
+## System Architecture
+<img width="678" height="482" alt="image" src="https://github.com/user-attachments/assets/a9812118-b990-4f33-8d7a-c8a3b52c7db5" />
 
-![image](https://github.com/user-attachments/assets/ad154f86-3d08-4a27-8f87-bd4f676467c1)
+## Main feature
 
-![image](https://github.com/user-attachments/assets/e079e4e7-c6f7-4762-b859-e3c36e31a574)
+### 패션정보 질문/투표 기능
+<img width="678" height="482" alt="image" src="https://github.com/user-attachments/assets/a8ba86ca-66cb-4b2c-98e9-7b8614eac950" />
+
+### 쇼핑몰url 입력시 자동으로 제품정보 작성 기능
+<img width="678" height="482" alt="사라탕마라탕기능설명" src="https://github.com/user-attachments/assets/4bb00774-f725-47b0-960a-19d3cb9d62c3" />
+
+### 명예의 전당
+<img width="678" height="482" alt="image" src="https://github.com/user-attachments/assets/55729851-50b7-4e67-9337-cd16da9d9a51" />
+
+### OOTD 공유
+<img width="689" height="549" alt="image" src="https://github.com/user-attachments/assets/c51eb28d-7081-40d5-a636-d56b042cb0e1" />
